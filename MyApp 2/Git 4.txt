@@ -1,0 +1,10 @@
+Nageshwar rao@DESKTOP-M0CACF0 MINGW64 ~/Desktop/MyApp 2
+$ git clone https://github.com/Krishit-Yadav/My-App-Sample.git
+Cloning into 'My-App-Sample'...
+remote: Enumerating objects: 25, done.
+remote: Counting objects: 100% (25/25), done.
+remote: Compressing objects: 100% (10/10), done.
+remote: Total 25 (delta 7), reused 24 (delta 6), pack-reused 0
+Unpacking objects: 100% (25/25), 3.18 KiB | 33.00 KiB/s, done.
+
+
